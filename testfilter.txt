@@ -1,0 +1,2 @@
+https://forum.turkmmo.com/ustbar0907.gif$domain=forum.turkmmo.com
+forum.turkmmo.com###top > div.special-days:first-child > div.special-days-five-bg > div.special-days-inner > a > img
